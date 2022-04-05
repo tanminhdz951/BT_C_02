@@ -1,0 +1,16 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
